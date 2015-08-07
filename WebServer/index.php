@@ -15,7 +15,7 @@
     <li>
         RFID
         <ul>
-            <li><a href="/rfid_report.php?rfid_report_print">Log of points on RFID values</a></li>
+            <li><a href="/rfid_report.php?rfid_report_print">Log of RFID values</a></li>
             <li><a href="/rfid_delete_all.php">Delete all RFID values</a></li>
         </ul>
     </li>
