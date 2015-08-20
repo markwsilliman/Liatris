@@ -1,1 +1,1 @@
-[Liatris.org](Liatris.org)
+[Liatris.org](http://Liatris.org)
